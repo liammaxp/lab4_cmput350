@@ -1,0 +1,3 @@
+14180 347898375840389362
+15277 347898375840389362
+The row-major is faster because it accesses contiguous memory, and column-major jumps a long distance to access the location, so its more slowly

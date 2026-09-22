@@ -1,0 +1,3 @@
+32746
+15688
+Thd mortan-order convolution is also stores each block continuously inthe mempry, but row-major nedds more nested loops and accesses 3d data less efficiently.
